@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "HQ",
+    "mainImage": "/HQ.jpg",
+    "images": ["/HQ.jpg", "/projectB_02.jpg"],
+    "ar": {
+      "title": "الادارة",
+      "description": "شارك 24 فنيًا في تدريبات مكثفة حول أحدث المعدات.",
+      "long_description": "تم تنظيم دورة تدريبية مكثفة بتاريخ 2025-07-21 لـ 24 فنيًا. ركز التدريب على الاستخدام الآمن والفعال للمعدات الجديدة.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "HQ",
+      "description": "24 technicians participated in intensive training on the latest equipment.",
+      "long_description": "An intensive training course was organized on 2025-07-21 for 24 technicians, focusing on the safe use of new equipment.",
+      "linkText": "View Details"
+    }
+  },
+  {
+    "slug": "high-voltage",
+    "mainImage": "/High-Voltage.jpg",
+    "images": ["/High-Voltage.jpg", "/projectA_02.jpg"],
+    "ar": {
+      "title": "مشاريع الجهد الفائق",
+      "description": "تدريبات متقدمة على سلامة العمل وطرق التركيب الحديثة.",
+      "long_description": "يتضمن هذا التدريب الشامل الذي عقد بتاريخ 2025-06-12 تغطية كاملة لمعايير السلامة الدولية وتقنيات تركيب الكابلات ذات الجهد الفائق.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "High Voltage Projects",
+      "description": "Advanced training on work safety and modern installation methods.",
+      "long_description": "This comprehensive training, held on 2025-06-12, includes full coverage of international safety standards.",
+      "linkText": "View Details"
+    }
+  },
+  {
+    "slug": "medium-voltage",
+    "mainImage": "/Medium.jpg",
+    "images": ["/Medium.jpg", "/projectB_02.jpg"],
+    "ar": {
+      "title": "مشاريع الجهد المتوسط",
+      "description": "شارك 24 فنيًا في تدريبات مكثفة حول أحدث المعدات.",
+      "long_description": "تم تنظيم دورة تدريبية مكثفة بتاريخ 2025-07-21 لـ 24 فنيًا. ركز التدريب على الاستخدام الآمن والفعال للمعدات الجديدة.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "Medium Voltage Projects",
+      "description": "24 technicians participated in intensive training on the latest equipment.",
+      "long_description": "An intensive training course was organized on 2025-07-21 for 24 technicians, focusing on the safe use of new equipment.",
+      "linkText": "View Details"
+    }
+  },
+  {
+    "slug": "Haya Karima",
+    "mainImage": "/Haya.jpg",
+    "images": ["/Haya.jpg", "/projectB_02.jpg"],
+    "ar": {
+      "title": "مشايع حياة كريمة",
+      "description": "شارك 24 فنيًا في تدريبات مكثفة حول أحدث المعدات.",
+      "long_description": "تم تنظيم دورة تدريبية مكثفة بتاريخ 2025-07-21 لـ 24 فنيًا. ركز التدريب على الاستخدام الآمن والفعال للمعدات الجديدة.",
+      "linkText": "عرض التفاصيل"
+    },
+    "en": {
+      "title": "Haya Karima",
+      "description": "24 technicians participated in intensive training on the latest equipment.",
+      "long_description": "An intensive training course was organized on 2025-07-21 for 24 technicians, focusing on the safe use of new equipment.",
+      "linkText": "View Details"
+    }
+  }
+]
