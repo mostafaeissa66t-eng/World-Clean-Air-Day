@@ -91,7 +91,7 @@ function Stats({ language }) {
         </div>
         <div className="w-full sm:w-auto px-12">
           <AnimatedStat
-            value={406}
+            value={102}
             label={content[language].trainees}
             icon={<TraineeIcon />}
           />
