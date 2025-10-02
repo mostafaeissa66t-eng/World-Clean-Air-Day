@@ -84,7 +84,7 @@ function Stats({ language }) {
       <div className="container mx-auto flex flex-col sm:flex-row justify-center items-center divide-y sm:divide-y-0 divide-gray-300">
         <div className="w-full sm:w-auto px-12">
           <AnimatedStat
-            value={18}
+            value={14}
             label={content[language].projects}
             icon={<ProjectIcon />}
           />
